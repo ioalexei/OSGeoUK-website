@@ -8,6 +8,8 @@ Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in Novem
 
 ----
 
+***GoFundGeo** is now open! [Details here](gofundgeo.html) Submission deadline **Wed 13th Nov 2024**.* 
+
 *[**OSGeo:UK AGM** Mon 18th Nov 2024 1pm online, GoFundGeo discussion](agm/agm2024.html)*
 
 ----
