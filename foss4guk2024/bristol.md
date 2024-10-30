@@ -59,15 +59,15 @@ Get in touch with one of the organising committee members below, or email us at 
 | 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ |
 | 11:45-12:05  | [Adam Tweedie](https://uk.osgeo.org/foss4guk2024/programme_details.html#adam-tweedie)	(SparkGeo UK) _Building a React Component Library for Geospatial Web Applications_ |
 | 12:05-12:25  | [David Lovelace](https://uk.osgeo.org/foss4guk2024/programme_details.html#david-lovelace) (Freelance)	_Geo-spatial data analysis for heritage & habitat_ |
-| 12:25-13:25  | Lunch break |
-| 13:25-13:45  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_| 
-| 13:45-14:05  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_|
-| 14:05-14:15  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
-| 14:15-14:35| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Help! You can decide how this thing works_|
-|14:35-14:55 | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_|
+| 12:25-12:45  | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_|
+| 12:45-13:45 | Lunch Break | 
+| 13:45-14:05  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_| 
+| 14:05-14:25  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_|
+| 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
+| 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Help! You can decide how this thing works_|
 |14:55-15:20|Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_|
 |15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_|
 |16:20-16:30| Wrap up|
-|17:00-?|Social at [The Barley Mow](https://www.bristolbeerfactory.co.uk/pages/the-barley-mow) - 10 minutes walk from The Engine Shed|
+|17:00-?|Social at [The Sidings](https://www.openstreetmap.org/search?lat=51.448454&lon=-2.584072#map=19/51.448455/-2.584072) - 2 minutes walk from The Engine Shed|
