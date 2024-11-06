@@ -53,7 +53,7 @@ Get in touch with one of the organising committee members below, or email us at 
 | 9:45-10:00  | Arrive                      |
 | 10:00-10:10  | Conference Start and Welcome|
 | 10:10-10:30  | [Alison Hopkin](https://uk.osgeo.org/foss4guk2024/programme_details.html#alison-hopkin) (CGI)	_Satellites for Digitalization Of Railways_|
-| 10:30-10:50  | [Chandra Taposeea-Fisher](https://uk.osgeo.org/foss4guk2024/programme_details.html#chandra-taposeea-fisher) (Telespazio) _EOEPCA+ / EarthCode_|
+| 10:30-10:50  | [Richard Conway & Garin Smith](https://uk.osgeo.org/foss4guk2024/programme_details.html#chandra-taposeea-fisher) (Telespazio) _EOEPCA+ / EarthCode_|
 | 10:50-11:10  | [James Milner](https://uk.osgeo.org/foss4guk2024/programme_details.html#james-milner)	(Nearform) _Experiences growing a FOSS4G project_|
 | 11:10-11:25  | Coffee break|
 | 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ |
@@ -64,7 +64,7 @@ Get in touch with one of the organising committee members below, or email us at 
 | 13:45-14:05  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_| 
 | 14:05-14:25  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_|
 | 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
-| 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Help! You can decide how this thing works_|
+| 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Start the Overture_|
 |14:55-15:20|Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_|
 |15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
