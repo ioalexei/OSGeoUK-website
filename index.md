@@ -4,7 +4,7 @@ layout: default
 
 ### Announcing FOSS4G:UK South West 2024, Bristol 12th November!
 
-Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in November](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) is out and [registration](https://www.eventbrite.co.uk/e/foss4guk-south-west-2024-tickets-1013729852277?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl) is live - expect great topics, discussions, networking, and of course Geodrinks afterwards. We look forward to seeing everyone with an interest in Free and Open Source for GIS, whether from Bristol or anywhere else in the world!
+Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in November](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) is out and all tickets have now been sold - apologies to those who were disappointed! If you are coming, expect great topics, discussions, networking, and of course Geodrinks afterwards. We look forward to seeing everyone with an interest in Free and Open Source for GIS, whether from Bristol or anywhere else in the world!
 
 ----
 
