@@ -89,7 +89,7 @@ https://en.wikipedia.org/wiki/Eating_your_own_dog_food
 ## James Milner
 **Experiences growing a FOSS4G project**
 
-_James is a London based software developer with a passion for geosptial. He is currently a Staff Engineer at Nearform, a company with roots in the open source community.
+_James is a London based software developer with a passion for geosptial. He is currently a Staff Engineer at Nearform, a company with roots in the open source community._
 
 Terra Draw is an open source JavaScript library for drawing on web maps. The project started two years ago in the UK and in that time the project has had over 20 unique contributors and amassed nearly 500 stars on GitHub. This talk will look and the ups and downs of attempting to grow, maintain and foster active adoption of an open source project. The talk will also touch on how we joined the OSGeo Community Project initiative and what that process looks like.
 
