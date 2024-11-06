@@ -12,7 +12,7 @@ _Adam joined Sparkgeo as a Senior Front End developer in November 2022, having w
 Sparkgeo are developing an open-source React-based component library to streamline our geospatial web application development. Many such applications share common interface elements like layer controls, legends, and timelines, so this library will offer pre-built, configurable components for reuse across projects. We’ll explore the technical implementation, including React’s component-based architecture, tools for management and testing, and how we ensure compatibility with various mapping libraries like OpenLayers, Maplibre,  Deck.gl. Despite challenges like configurability and community engagement, this library aims to reduce development time, minimise code redundancy, and support efficient geospatial web development. This talk has also been presented at FOSS4G North America.
 
 ## Al Graham
-**Help! You can decide how this thing works.**
+**Start the Overture**
 
 _Freelance Geographer for hire: main interests are Earth observation, ecology and landscapes, and renewable and home energy. Generally act as the technical lead or technical PM on most projects I deliver. Member or the OSGeo:UK committee, podcaster on EO topics. Loves Linux, concerned about environmental degradation in all its forms, and happy to keep on learning stuff._
 
