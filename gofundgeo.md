@@ -18,7 +18,7 @@ We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and br
 
 We will discuss the submissions at the AGM, and decide which ones to fund.
 
-The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing). This is a dynamic document and will update until the deadline on Wed 13th Nov 2024. 
+The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing){:target="_newpage"}. This is a dynamic document and will update until the deadline on Wed 13th Nov 2024. Please add your comments. 
 
 We are hopeful again to get support from the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have previously provided funding of £250 to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
 
