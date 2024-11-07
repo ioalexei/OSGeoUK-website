@@ -103,9 +103,10 @@ This will be an overview of the Overture Maps project, which is an initiative to
 ## Nick Bearman
 **GoFundGeo**
 
-_I’m Dr Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic and not for profit sectors. I help people make use of GIS to answer their research questions, and get more answers from the data they already have. I am a passionate supporter of Open Source software and am Chair of OSGeo:UK, the UK Local Chapter of the Open Source Geospatial Foundation._
+_I’m Nick Bearman and deliver GIS training sessions and GIS consultancy for a variety of clients, primarily focused in the academic and not for profit sectors. I help people make use of GIS to answer their research questions, and get more answers from the data they already have. I am a passionate supporter of Open Source software and am Chair of OSGeo:UK, the UK Local Chapter of the Open Source Geospatial Foundation._
 
-I want to give a short overview of the GoFundGeo project, and talk a little bit about how it is useful to people. 
+This will be an overview of OSGeo:UK's GoFundGeo project, where every year we award money to a range of UK related OSGeo projects. This year we have a budget of £6,000 and will be making the decision about which projects we support at our AGM on Mon 18th November. Hear about the GoFundGeo at my presentation, and come and have your say at the AGM!
+
 
 ## Peter Petrik
 **Mergin Maps: your field data collection tool**
