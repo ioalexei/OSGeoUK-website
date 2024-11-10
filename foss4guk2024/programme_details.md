@@ -41,10 +41,8 @@ _GIS consultant with Astun. Expertise in shunting data in different places. :-)_
 
 A quick talk on how QField can sit in an enterprise setting. I'll cover security, version control, synchronisation and access to the data from other systems. We'll cover QFieldCloud and the API and I'll explain how to adjust a QGIS project to make it as friendly as possible for mobile data capture.
 
-## Chandra Taposeea-Fisher
+## Telespazio
 **EarthCODE: Earth Science Collaborative Open Development Environment**
-
-_Chandra is working at Telespazio UK as a Senior Project Manager for EO Software systems, where she is the Project Manager for ESA's EOPECA+ & EarthCODE projects. She also bid manages EO based projects, ranging from ground segments, climate-based projects and EO platforms. She is also the Chair of the EO Committee as part of UKSpace_
 
 The EarthCODE (Earth Science Collaborative Open Development Environment) vision provides an integrated, cloud-based, user-centric development environment, supporting ESA’s science activities and projects. Building on European EO open-source ecosystem and Open Earth System Science community activities (including EOEPCA+, the Open Science Catalogue and EOxHub), ESA is implementing EarthCODE as a collaborative platform for conducting Earth System Science sustainably, adhering to FAIR and Open Science Principles. 
 
