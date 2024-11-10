@@ -16,7 +16,7 @@ Sparkgeo are developing an open-source React-based component library to streamli
 
 _Freelance Geographer for hire: main interests are Earth observation, ecology and landscapes, and renewable and home energy. Generally act as the technical lead or technical PM on most projects I deliver. Member or the OSGeo:UK committee, podcaster on EO topics. Loves Linux, concerned about environmental degradation in all its forms, and happy to keep on learning stuff._
 
-I have an idea for a geospatial tool based on a discussion I had with a friend. I could build this as a GIS analyst, but I want people to use it. I could build it as a web developer, but I'm not. I could build it by bringing together databases, or APIs, or flat files, or cloud native technologies. But, can we crowd-source a project based on the people in the room?
+Having recently done some vector based work, Al discovered how useful Overture is and will compare previous go-to data with this new dataset.
 
 ## Alexei Schwab
 **Creating a grid layout plugin for QGIS**
