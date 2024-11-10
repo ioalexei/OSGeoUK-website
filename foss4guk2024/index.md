@@ -51,7 +51,7 @@ Get in touch with one of the organising committee members below, or email us at 
 | 9:45-10:00  | Arrive                      |
 | 10:00-10:10  | Conference Start and Welcome|
 | 10:10-10:30  | [Alison Hopkin](https://uk.osgeo.org/foss4guk2024/programme_details.html#alison-hopkin) (CGI)	_Satellites for Digitalization Of Railways_|
-| 10:30-10:50  | [Richard Conway & Garin Smith](https://uk.osgeo.org/foss4guk2024/programme_details.html#telespazio) (Telespazio) _EOEPCA+ / EarthCode_|
+| 10:30-10:50  | [Richard Conway & Garin Smith](https://uk.osgeo.org/foss4guk2024/programme_details.html#telespazio) (Telespazio) _EarthCODE as a reproducible science platform, influenced by EOEPCA+ workflow and data standards_|
 | 10:50-11:10  | [James Milner](https://uk.osgeo.org/foss4guk2024/programme_details.html#james-milner)	(Nearform) _Experiences growing a FOSS4G project_|
 | 11:10-11:25  | Coffee break|
 | 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ |
