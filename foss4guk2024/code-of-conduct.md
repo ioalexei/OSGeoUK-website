@@ -6,7 +6,7 @@ layout: default
 
 ## General Guidelines
 
-FOSS4G:UK Local 2023 is a an person conference.
+FOSS4G:UK South West 2024 is an person conference.
 
 These guidelines are meant as a tool to help presenters and attendees have an enjoyable event, and should be read alongside the general [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/), which applies to all platforms and communication mediums.
 
@@ -19,14 +19,14 @@ OSGeo welcomes and encourages participation by everyone. We are committed to bei
 
 ## Escalating and/Reporting a Problem
 
-Issues that cannot be handled by the presentation host and co-host should be escalated to the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
+Issues that cannot be handled by the presentation chairs or conference chairs should be escalated to the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
 
 
 ## Meeting recordings
 
-Most presentations will be recorded and uploaded to the FOSS4G:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. We will also take photos during the events, and use these for publicity. This is done on an opt-in basis, when you register.  If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
+Most presentations will be recorded and uploaded to the FOSS4G:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
 
-Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, co-host, and the conference organising committee will be made as to whether the recording should be made available.
+Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, chair, and the conference organising committee will be made as to whether the recording should be made available.
 
 ## Be Nice
 
