@@ -71,3 +71,7 @@ Get in touch with one of the organising committee members below, or email us at 
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_|
 |16:20-16:30| Wrap up|
 |17:00-?|Social at [The Sidings](https://www.openstreetmap.org/search?lat=51.448454&lon=-2.584072#map=19/51.448455/-2.584072) - 2 minutes walk from The Engine Shed|
+
+## Code of Conduct
+
+Participants at FOSS4G:UK South West 2024 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
