@@ -52,16 +52,16 @@ Get in touch with one of the organising committee members below, or email us at 
 |--------------|-----------------------------|
 | 9:45-10:00  | Arrive                      |
 | 10:00-10:10  | Conference Start and Welcome|
-| 10:10-10:30  | [Alison Hopkin](https://uk.osgeo.org/foss4guk2024/programme_details.html#alison-hopkin) (CGI)	_Satellites for Digitalization Of Railways_|
-| 10:30-10:50  | [Richard Conway & Garin Smith](https://uk.osgeo.org/foss4guk2024/programme_details.html#telespazio) (Telespazio) _EarthCODE as a reproducible science platform, influenced by EOEPCA+ workflow and data standards_|
+| 10:10-10:30  | [Alison Hopkin](https://uk.osgeo.org/foss4guk2024/programme_details.html#alison-hopkin) (CGI)	_Satellites for Digitalization Of Railways_ [Deck PDF](decks/01-alison-hopkin-cgi-satellites-for-digitisation-of-railways.pdf)|
+| 10:30-10:50  | [Richard Conway & Garin Smith](https://uk.osgeo.org/foss4guk2024/programme_details.html#telespazio) (Telespazio) _EarthCODE as a reproducible science platform, influenced by EOEPCA+ workflow and data standards_ [Deck PDF](decks/02-garin-smith-telespazio-earthcode-eoepca.pdf)|
 | 10:50-11:10  | [James Milner](https://uk.osgeo.org/foss4guk2024/programme_details.html#james-milner)	(Nearform) _Experiences growing a FOSS4G project_|
 | 11:10-11:25  | Coffee break|
-| 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ |
+| 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ [Deck PDF](decks/04-rob-burgess-inosys-real-time-vessel-monitoring.pdf) |
 | 11:45-12:05  | [Adam Tweedie](https://uk.osgeo.org/foss4guk2024/programme_details.html#adam-tweedie)	(SparkGeo UK) _Building a React Component Library for Geospatial Web Applications_ |
 | 12:05-12:25  | [David Lovelace](https://uk.osgeo.org/foss4guk2024/programme_details.html#david-lovelace) (Freelance)	_Geo-spatial data analysis for heritage & habitat_ |
-| 12:25-12:45  | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_|
+| 12:25-12:45  | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_ [Deck PDF](decks/15-nick-bearman-wrap-up.pdf)|
 | 12:45-13:45 | Lunch Break | 
-| 13:45-14:05  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_| 
+| 13:45-14:05  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_ [Deck PDF](decks/08-robin-wilson-cloud-native-flood-risk.pdf)|
 | 14:05-14:25  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_|
 | 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
 | 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Start the Overture_|
