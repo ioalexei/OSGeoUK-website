@@ -20,9 +20,9 @@ We will discuss the submissions at the AGM, and decide which ones to fund.
 
 The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing){:target="_newpage"}. This is a dynamic document and will update until the deadline on Wed 13th Nov 2024. Please add your comments. 
 
-We are hopeful again to get support from the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have previously provided funding of £250 to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
+We are happy to confirm we have secured £150 from [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
 
-If you have any questions, or need any more information please email <span class="osgeoemail"></span> or come along to [FOSS4G:UK 2024 South West in Bristol on 12th November](https://uk.osgeo.org/foss4guk2024/bristol.html). 
+If you have any questions, or need any more information please email <span class="osgeoemail"></span> or come along to the [AGM on Mon 18th Nov at 1pm](https://uk.osgeo.org/agm/agm2024.html). 
 
 ----
 
