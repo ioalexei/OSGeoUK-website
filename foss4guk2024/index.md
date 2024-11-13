@@ -6,6 +6,8 @@ layout: default
 
 <img src="../foss4guk2022local/images/engineshed.jpeg" width="600" align="middle">
 
+[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAePBAs_10bPF49n_QQRXbQNeKuOda1dRNsAlccjDyGGBspw/viewform)
+
 ### FOSS4G is coming to Bristol again!
 
 OSGeo:UK is pleased to announce that there will be a regional one day FOSS4G event in Bristol this year on _12th November_,  at the [Engine Shed at Bristol Temple Meads](https://engine-shed.co.uk/), following on from our events there in 2023 and 2022. This will be an in person only event, but we hope to be able to record and publish presentations if we can.
