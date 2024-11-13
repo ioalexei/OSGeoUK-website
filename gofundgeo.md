@@ -22,6 +22,8 @@ The submissions are currently listed in [Google Docs](https://docs.google.com/do
 
 We are happy to confirm we have secured £150 from [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
 
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+
 If you have any questions, or need any more information please email <span class="osgeoemail"></span> or come along to the [AGM on Mon 18th Nov at 1pm](https://uk.osgeo.org/agm/agm2024.html). 
 
 ----
