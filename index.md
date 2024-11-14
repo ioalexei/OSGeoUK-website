@@ -10,7 +10,7 @@ Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in Novem
 
 ----
 
-***GoFundGeo** is now closed for applications! Come along to the [AGM on Mon 18th Nov 2024 1pm online](agm/agm2024.html) to discuss which projects we should fund**.* 
+***GoFundGeo** is now closed for applications! [Details here](gofundgeo.html) Come along to the [AGM on Mon 18th Nov 2024 1pm online](agm/agm2024.html) to discuss which projects we should fund.* 
 
 *[**OSGeo:UK AGM** Mon 18th Nov 2024 1pm online, GoFundGeo discussion](agm/agm2024.html)*
 
