@@ -6,7 +6,7 @@ layout: default
 
 <img src="../foss4guk2022local/images/engineshed.jpeg" width="600" align="middle">
 
-[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAePBAs_10bPF49n_QQRXbQNeKuOda1dRNsAlccjDyGGBspw/viewform)
+Please fill out our [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAePBAs_10bPF49n_QQRXbQNeKuOda1dRNsAlccjDyGGBspw/viewform) for FOSS4G:UK South West 2024. Deadline of 26th Nov 2024, 17:00 to be in with a chance of winning a e-book copy of [Using R as a GIS](https://locatepress.com/book/rgis). 
 
 ### FOSS4G is coming to Bristol again!
 
