@@ -60,12 +60,12 @@ Get in touch with one of the organising committee members below, or email us at 
 | 11:10-11:25  | Coffee break|
 | 11:25-11:45  | [Rob Burgess](https://uk.osgeo.org/foss4guk2024/programme_details.html#rob-burgess)	(Inosys) _Real-Time Vessel Monitoring with Open-Source Tools: Leveraging PostgreSQL, PostGIS, and Python for Geospatial Analysis and Visualisation_ [Deck PDF](decks/04-rob-burgess-inosys-real-time-vessel-monitoring.pdf) |
 | 11:45-12:05  | [Adam Tweedie](https://uk.osgeo.org/foss4guk2024/programme_details.html#adam-tweedie)	(SparkGeo UK) _Building a React Component Library for Geospatial Web Applications_ [Deck PDF](decks/05-adam-tweedie-building-a-react-lib.pdf)|
-| 12:05-12:25  | [David Lovelace](https://uk.osgeo.org/foss4guk2024/programme_details.html#david-lovelace) (Freelance)	_Geo-spatial data analysis for heritage & habitat_ |
+| 12:05-12:25  | [David Lovelace](https://uk.osgeo.org/foss4guk2024/programme_details.html#david-lovelace) (Freelance)	_Geo-spatial data analysis for heritage & habitat_ [Deck PDF](decks/06-david-lovelace-geospatial-analysis-for-heritage-habitat.pdf) |
 | 12:25-12:45  | [Nick Bearman](https://uk.osgeo.org/foss4guk2024/programme_details.html#nick-bearman)	(Freelance) _GoFundGeo_ [Deck PDF](decks/07-nick-bearman-gofundgeo-v02.pdf)|
 | 12:45-13:45 | Lunch Break | 
 | 13:45-14:05  | [Robin Wilson](https://uk.osgeo.org/foss4guk2024/programme_details.html#robin-wilson) (Rebalance Earth)	_Using cloud-native geospatial technologies to build a web app for analysing and reducing flood risk_ [Deck PDF](decks/08-robin-wilson-cloud-native-flood-risk.pdf)|
 | 14:05-14:25  | [Andrew Bailey](https://uk.osgeo.org/foss4guk2024/programme_details.html#andrew-bailey) (Astun Technology)	_QField in an enterprise setting_ [Deck PDF](decks/09-andrew-bailey-qfield-in-an-enterprise-setting.pdf)|
-| 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_|
+| 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_  [Deck PDF](decks/10-dennis-bauszus-dogfooding-osgeo.pdf)|
 | 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Start the Overture_ [Deck PDF](decks/11-al-graham-overture.pdf)|
 |14:55-15:20 Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_ [Deck PDF](decks/12-peter-petrik-mergin-maps.pdf)|
