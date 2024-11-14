@@ -69,7 +69,7 @@ Get in touch with one of the organising committee members below, or email us at 
 | 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Start the Overture_ [Deck PDF](decks/11-al-graham-overture.pdf)|
 |14:55-15:20 Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_ [Deck PDF](decks/12-peter-petrik-mergin-maps.pdf)|
-|15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ |
+|15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ [Deck PDF](decks/13-alexei-qgis-grid-layout-plugin.pdf)|
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_|
 |16:20-16:30| Wrap up [Deck PDF](decks/15-nick-bearman-wrap-up.pdf)|
 |17:00-?|Social at [The Sidings](https://www.openstreetmap.org/search?lat=51.448454&lon=-2.584072#map=19/51.448455/-2.584072) - 2 minutes walk from The Engine Shed|
