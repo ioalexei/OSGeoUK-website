@@ -7,18 +7,18 @@ layout: default
 ### Supporting Open Source Geospatial software development in the UK
 
 Every year at our AGM (in November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. In [2023](#2022-23) we supported 7 projects with a total of £5,633 and in [2022](#2021-22) we supported 5 projects with £3,879. 
+
 This year we have a budget of £6,000 and will be making the decision about which projects we support at our [AGM on Mon 18th November](agm/agm2024.html). Come along and have your say!
 
 We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
 
+We have now closed applications and are in the review stage. We will discuss the submissions at the AGM on Mon 18th Nov, and decide which ones to fund.
+
+The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing){:target="_newpage"}. Please add your comments. 
+
 We would like to hear from you - what project(s) do you think we should fund?
 
-We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Wed 13th Nov 2024 (just before the AGM on Mon 18th Nov 2024). We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list on Thu 14th Nov, for discussion at the AGM on Mon 18th Nov. 
 We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
-
-We will discuss the submissions at the AGM, and decide which ones to fund.
-
-The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing){:target="_newpage"}. This is a dynamic document and will update until the deadline on Wed 13th Nov 2024. Please add your comments. 
 
 We are happy to confirm we have secured £150 from [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
 
