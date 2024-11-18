@@ -5,7 +5,7 @@ layout: default
 ### OSGeo:UK 2024 AGM
 
 ### Minutes of OSGeo:UK 2024 AGM
-18th Novenber 2023 at 1pm, online
+18th Novenber 2024 at 1pm, online
 
 ### Officers and Trustees Present
 Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Tom Armitage, Dave Barter (Committee), James Milner, Paul Wittle, Alexei Schwab, Jonny Huck, Catherine Clissold-Jones, Steven Feldman, Dan Ormsby, Ian Mayo
