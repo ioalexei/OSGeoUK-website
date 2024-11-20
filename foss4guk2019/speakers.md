@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2019
+title: "FOSS4G UK 2019: Speakers"
 ---
 <h2 style="margin-top:0;">Keynote Speakers</h2>
 

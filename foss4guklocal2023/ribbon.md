@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2023
+title: "FOSS4G:UK Local 2023 - FOSS4G Ribbon"
 ---
 
 

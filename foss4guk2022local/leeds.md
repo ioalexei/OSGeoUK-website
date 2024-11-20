@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2022
+title: "FOSS4G:UK Local 2022 - Leeds"
 ---
 
 ## FOSS4G:UK Local 2022 - Leeds (Platform)

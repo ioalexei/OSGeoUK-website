@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: Editing the website on GitHub"
 ---
 
 # Editing the website on GitHub

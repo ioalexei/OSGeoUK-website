@@ -1,3 +1,7 @@
+---
+layout: default
+title: title: "FOSS4G UK Online 2020 - Sessions"
+---
 _This is the listing of sessions (in alpha order by lead presenter) for FOSS4G UK Online 2020. The schedule is [here](https://uk.osgeo.org/foss4gukonline2020/programme.html)._
 
 Times and rooms are listed against each presenter (for lightning talks, the time indicated is the session, not individual presenter):

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4G:UK Local 2022 - Code of Conduct"
 ---
 
 # Code of Conduct for FOSS4G:UK Local 2022

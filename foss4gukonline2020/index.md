@@ -1,3 +1,7 @@
+---
+layout: default
+title: "FOSS4G UK Online 2020"
+---
 ## FOSS4G UK Online 2020
 <img src="images/FOSS4GUK-2020-Logo-v4-text-as-paths.svg" width="300" height="300" alt="Graphic by Rosalid Cuttle" align="middle">
 

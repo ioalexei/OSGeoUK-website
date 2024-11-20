@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4G UK Online 2020 - Code of Conduct"
 ---
 
 # Code of Conduct for FOSS4GUK Online

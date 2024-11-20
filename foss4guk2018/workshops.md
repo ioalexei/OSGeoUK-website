@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2018
+title: "FOSS4G UK 2018: Workshops"
 ---
 
 <!-- complied with pandoc workshops.md -s -o workshops.html -->

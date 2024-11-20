@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2018
+title: "FOSS4G UK 2018: Code Sprint"
 ---
 ## [FOSS4G UK 2018](/foss4guk2018/) : FOSS4G UK Code Sprint
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: 2020 AGM minutes"
 ---
 
 ### Minutes of OSGeo:UK 2020 AGM

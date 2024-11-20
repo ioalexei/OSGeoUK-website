@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2019
+title: "FOSS4G UK 2019: Tickets"
 ---
 <h2 style="margin-top:0;">Tickets</h2>
 

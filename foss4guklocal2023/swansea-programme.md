@@ -2,6 +2,7 @@
 layout: program2023
 venuename: Swansea
 venuepage: swansea.html
+title: "FOSS4G:UK Local 2023 - Swansea - Programme"
 ---
 
 ## Session details

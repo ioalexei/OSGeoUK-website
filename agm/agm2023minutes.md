@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: 2023 AGM minutes"
 ---
 
 ### Minutes of OSGeo:UK 2023 AGM

@@ -2,6 +2,7 @@
 layout: program2023
 venuename: Lancaster
 venuepage: lancaster.html
+title: "FOSS4G:UK Local 2023 - Lancaster - Programme"
 ---
 
 ## Programme

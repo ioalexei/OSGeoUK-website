@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2019
+title: "FOSS4G UK 2019: Talks & Workshops"
 ---
 <h2 style="margin-top:0;">Talks & Workshops</h2>
 

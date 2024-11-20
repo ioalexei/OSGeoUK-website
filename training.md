@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: Training"
 ---
 
 ### Training

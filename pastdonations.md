@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: Past Donations"
 ---
 
 ### Past Donations

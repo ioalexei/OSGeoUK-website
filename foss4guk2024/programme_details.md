@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4G:UK South West 2024 - Programme details"
 ---
 
 # FOSS4G:UK South West 2024 - Programme details

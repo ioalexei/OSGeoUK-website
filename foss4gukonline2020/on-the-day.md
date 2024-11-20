@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4G UK Online 2020 - On the Day"
 ---
 # On the Day
 

@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2022
+title: "FOSS4G:UK Local 2022 - Lessons Learned"
 ---
 
 ## FOSS4G:UK Local 2022 - Lessons Learned

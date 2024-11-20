@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4GUK Conference Organising Guidelines"
 ---
 
 ### FOSS4GUK Conference Organising Guidelines

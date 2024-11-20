@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: QGIS"
 ---
 
 ### QGIS 3.36 Maidenhead Released

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo:UK Guidelines for funding"
 ---
 
 ### Guidelines for OSGeo:UK funding

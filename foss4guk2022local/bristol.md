@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2022
+title: "FOSS4G:UK Local 2022 - Bristol"
 ---
 
 ## FOSS4G:UK Local 2022 - Bristol (Engine Shed, Bristol Temple Meads)

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo:UK 2024 Code Sprint"
 ---
 
 ## OSGeo:UK 2024 Code Sprint - Code by the Coast

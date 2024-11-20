@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2019
+title: "FOSS4G UK 2019"
 ---
 
 FOSS4GUK 2019 has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.

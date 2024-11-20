@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2018
+title: "FOSS4G UK 2018: Abstracts"
 ---
 
 <!-- complied with pandoc abstracts.md -s -o abstracts.html -->

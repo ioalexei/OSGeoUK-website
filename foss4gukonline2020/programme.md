@@ -1,3 +1,7 @@
+---
+layout: default
+title: "FOSS4G UK Online 2020 - Programme"
+---
 The programme is divided into eight themes, running in three parallel streams.
 
 The themes are:

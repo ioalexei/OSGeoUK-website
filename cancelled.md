@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Cancelled"
 ---
 
 ### Your donation has been cancelled

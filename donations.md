@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Donating to OSGeo:UK"
 ---
 
 ## Donating to OSGeo:UK

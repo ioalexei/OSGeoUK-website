@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo UK: 2016 AGM minutes"
 ---
 
 ### OSGeo:UK 2016 AGM Minutes

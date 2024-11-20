@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2018
+title: "FOSS4G UK 2018: Unconference"
 ---
 ## [FOSS4G UK 2018](/foss4guk2018/) : Unconference
 

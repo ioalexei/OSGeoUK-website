@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2018
+title: "FOSS4G UK 2018"
 ---
 
 <!-- <h1> FOSS4G UK 2018 </h1> -->

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "FOSS4G:UK South West 2024: Code of Conduct"
 ---
 
 # Code of Conduct for FOSS4G:UK South West 2024
