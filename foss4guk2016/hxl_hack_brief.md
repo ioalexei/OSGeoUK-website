@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2016
+title: "FOSS4G UK 2016: HXL Hack Briefing Notes"
 ---
 
 ## HXL Hack at FOSS4G UK 2016 - Briefing Notes ##

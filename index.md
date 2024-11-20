@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "OSGeo: UK"
 ---
 
 ### Announcing FOSS4G:UK South West 2024, Bristol 12th November!

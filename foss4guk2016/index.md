@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2016
+title: "FOSS4G UK 2016"
 ---
 ![alt text](images/foss4guk_2016_logo.png "FOSS4G UK 2016")
 

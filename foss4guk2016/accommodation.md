@@ -1,5 +1,6 @@
 ---
 layout: foss4guk2016
+title: "FOSS4G UK 2016: Accommodation"
 ---
 ## [FOSS4G UK 2016](/foss4guk2016/) : Accommodation
 
